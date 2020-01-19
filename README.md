@@ -1,4 +1,4 @@
-# OmniStack_10 - DEVRADAR
+# DEVRADAR
 [Link do vídeo](https://www.linkedin.com/posts/ismael-moreira-de-sousa-20234213b_semanaomnistack-reactnative-node-activity-6624637738094256128-DsFc)
 
 #### WEB - ReactJS
